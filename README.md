@@ -2,8 +2,9 @@
 
 🎯 **Data Analyst | Excel • SQL • Power BI**
 
-I am a data analyst with a strong background in transforming raw data into actionable insights. 
+I am a data analyst with over 5 years experience, I have a strong background in transforming raw data into actionable insights. 
 I specialize in **data analysis, reporting, and dashboard creation** to support business and operational decision-making.
+I love talking about data and sharing my experience, I've taught over 500+ student and help them with transforming their careers.
 
 ---
 
@@ -29,31 +30,20 @@ I specialize in **data analysis, reporting, and dashboard creation** to support 
 
 ---
 
-### 🔹 Mpox Outbreak Analysis (Nigeria)
-**Tools:** Power BI, Excel  
-- Analyzed confirmed cases by state and age group (2017–2024)  
-- Built a dashboard for public health trend monitoring  
-- Supported data-driven health planning  
-
-📁 [View Project Repository](https://github.com/yourusername/project-link)
-
----
 
 ## 🛠 Tools & Skills
 
 - **Data Analysis:** Excel, SQL (MySQL)
 - **Visualization:** Power BI
-- **Databases:** MySQL
+- **Databases:** MySQL, 
 - **Reporting:** PDF Reports, Dashboards
-- **Other:** Data Cleaning, Exploratory Data Analysis (EDA)
+- **Other:** Data Cleaning, Exploratory Data Analysis (EDA), Microsoft Office Suite
 
 ---
 
 ## 📜 Certifications
 
-- Google Data Analytics (Coursera)
-- Microsoft Power BI Data Analyst *(if applicable)*
-- SQL for Data Analysis *(if applicable)*
+- SQL for Data Science
 
 ---
 
@@ -68,9 +58,8 @@ I specialize in **data analysis, reporting, and dashboard creation** to support 
 
 ## 📫 Let's Connect
 
-- 🔗 **LinkedIn:** https://linkedin.com/in/yourprofile  
-- 📧 **Email:** yourname@email.com  
-- 📊 **Power BI Portfolio:** link if public  
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/reginald-imohimi) 
+- 📧 **Email:** reginaldimohimi@gmail.com 
 
 ---
 
