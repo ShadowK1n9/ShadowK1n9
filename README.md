@@ -31,12 +31,14 @@ I love talking about data and sharing my experience, I've taught over 500+ stude
 
 ---
 ### 🔹 Pizza Sales Performance Analysis
-**Tools:** MySQL, Excel  
-- Identified peak order periods and best-selling pizza categories  
-- Provided revenue optimization insights  
-- Created a clean PDF report for stakeholders  
+**Tools:** Excel  
+- Identified peak order periods and weekly demand patterns  
+- Analyzed customer preferences by pizza type, size, and category  
+- Evaluated pricing and revenue trends to highlight high-performing products  
+- Assessed order composition to understand single vs multi-pizza purchasing behavior  
+- Delivered revenue optimization insights supported by an executive-ready dashboard and report  
 
-📁 [View Project Repository](https://github.com/yourusername/project-link)
+📁 [View Project Repository](https://github.com/ShadowK1n9/Pizza_Sales_Performance_and_Revenue_Analysis)
 
 ---
 ## 🛠 Tools & Skills
