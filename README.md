@@ -11,14 +11,14 @@ I have led and contributed to analytics projects using **Excel, SQL (MySQL), and
 ## 📌 Visual Portfolio Highlights
 
 ### Pizza Sales Performance Dashboard
-![Pizza Sales Dashboard](Pizza_Sales_Performance_and_Revenue_Analysis/Assets/Dashboard.png)
+![Pizza Sales Dashboard](https://github.com/ShadowK1n9/Pizza_Sales_Performance_and_Revenue_Analysis/blob/main/Assets/Dashboard.png)
 
 This dashboard summarizes customer demand patterns, product performance, and revenue drivers to support operational and pricing decisions.
 
 ---
 
 ### Global Black Money Transactions Risk Dashboard
-![Money Laundering Dashboard](money_laundering_analysis/dashboard/dashboard.png)
+![Money Laundering Dashboard](https://github.com/ShadowK1n9/money_laundering_analysis/blob/main/Assets/Exec%20Overview.png)
 
 This dashboard highlights high-risk transactions, anomaly patterns, and regional risk exposure to support fraud detection and risk assessment.
 
