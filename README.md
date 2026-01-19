@@ -1,44 +1,57 @@
 # Hi, I'm Reginald Imohimi
 
-🎯 **Data Analyst | Excel • SQL • Power BI**
+🎯 **Data Analyst | Program Analyst | Excel • SQL • Power BI**
 
-I am a data analyst with over 5 years experience, I have a strong background in transforming raw data into actionable insights. 
-I specialize in **data analysis, reporting, and dashboard creation** to support business and operational decision-making.
-I love talking about data and sharing my experience, I've taught over 500+ student and help them with transforming their careers.
+I am a data analyst and program analyst with a strong background in data-driven reporting, dashboard development, and analytical problem-solving. My experience spans healthcare operations, training and instruction, and applied data analysis projects, where I have supported decision-making through clean data, clear insights, and well-structured reports.
+
+I have led and contributed to analytics projects using **Excel, SQL (MySQL), and Power BI**, and I have trained over **500+ learners** in data analysis and reporting tools. My work focuses on transforming raw data into actionable insights that support business, operational, and strategic outcomes.
+
+
+---
+## 📌 Visual Portfolio Highlights
+
+### Pizza Sales Performance Dashboard
+![Pizza Sales Dashboard](Pizza_Sales_Performance_and_Revenue_Analysis/Assets/Dashboard.png)
+
+This dashboard summarizes customer demand patterns, product performance, and revenue drivers to support operational and pricing decisions.
 
 ---
 
+### Global Black Money Transactions Risk Dashboard
+![Money Laundering Dashboard](money_laundering_analysis/dashboard/dashboard.png)
+
+This dashboard highlights high-risk transactions, anomaly patterns, and regional risk exposure to support fraud detection and risk assessment.
+
+
 ## 📊 Featured Data Analysis Projects
+
+### 🔹 Pizza Sales Performance & Revenue Analysis
+**Tools:** Excel, SQL  
+- Analyzed customer demand patterns across time, product categories, and pizza sizes  
+- Evaluated pricing and revenue trends to identify high-performing products  
+- Delivered executive-ready insights through a summarized dashboard and report  
+
+📁 [View Project Repository](https://github.com/ShadowK1n9/Pizza_Sales_Performance_and_Revenue_Analysis)
+
+---
 
 ### 🔹 Global Black Money Transactions Analysis
 **Tools:** MySQL, Power BI  
-- Analyzed high-risk transactions to identify fraud patterns  
-- Built an interactive Power BI dashboard for risk assessment  
-- Focused on anomaly detection and trend analysis  
+- Analyzed transaction data to identify fraud risk patterns and anomalies  
+- Built a Power BI dashboard to support risk assessment and monitoring  
+- Focused on trend analysis and high-risk region identification  
 
 📁 [View Project Repository](https://github.com/ShadowK1n9/money_laundering_analysis)
 
 ---
-**Tools:** MySQL
-### 🔹Olympic Events Analysis
-- Analyzed Olympic Games data spanning **1896–2016** using **MySQL**
-- Examined **participation consistency**, **medal leadership**, **sport longevity**, and **athlete excellence** across nations
-- Uncovered how **historical, political, and economic factors** influence Olympic success
-- Conducted a focused analysis on **Nigeria’s Olympic medal performance**, highlighting dominance in men’s football
-- Extracted insights exclusively through **SQL querying and analytical reasoning**, without visualizations
+
+### 🔹 Olympic Events Data Analysis (1896–2016)
+**Tools:** MySQL  
+- Conducted historical analysis of Olympic participation, medal dominance, and sport evolution  
+- Examined national performance patterns and athlete longevity  
+- Demonstrated SQL-driven analytical storytelling without visualizations  
 
 📁 [View Project Repository](https://github.com/ShadowK1n9/SQL_Project_Olympic_Events_Analysis)
-
----
-### 🔹 Pizza Sales Performance Analysis
-**Tools:** Excel  
-- Identified peak order periods and weekly demand patterns  
-- Analyzed customer preferences by pizza type, size, and category  
-- Evaluated pricing and revenue trends to highlight high-performing products  
-- Assessed order composition to understand single vs multi-pizza purchasing behavior  
-- Delivered revenue optimization insights supported by an executive-ready dashboard and report  
-
-📁 [View Project Repository](https://github.com/ShadowK1n9/Pizza_Sales_Performance_and_Revenue_Analysis)
 
 ---
 ## 🛠 Tools & Skills
