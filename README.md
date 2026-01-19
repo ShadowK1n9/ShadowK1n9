@@ -16,12 +16,22 @@ I love talking about data and sharing my experience, I've taught over 500+ stude
 - Built an interactive Power BI dashboard for risk assessment  
 - Focused on anomaly detection and trend analysis  
 
-📁 [View Project Repository](https://github.com/yourusername/project-link)
+📁 [View Project Repository](https://github.com/ShadowK1n9/money_laundering_analysis)
 
 ---
+**Tools:** MySQL
+### 🔹Olympic Events Analysis
+- Analyzed Olympic Games data spanning **1896–2016** using **MySQL**
+- Examined **participation consistency**, **medal leadership**, **sport longevity**, and **athlete excellence** across nations
+- Uncovered how **historical, political, and economic factors** influence Olympic success
+- Conducted a focused analysis on **Nigeria’s Olympic medal performance**, highlighting dominance in men’s football
+- Extracted insights exclusively through **SQL querying and analytical reasoning**, without visualizations
 
+📁 [View Project Repository](https://github.com/ShadowK1n9/SQL_Project_Olympic_Events_Analysis)
+
+---
 ### 🔹 Pizza Sales Performance Analysis
-**Tools:** SQL, Excel  
+**Tools:** MySQL, Excel  
 - Identified peak order periods and best-selling pizza categories  
 - Provided revenue optimization insights  
 - Created a clean PDF report for stakeholders  
@@ -29,8 +39,6 @@ I love talking about data and sharing my experience, I've taught over 500+ stude
 📁 [View Project Repository](https://github.com/yourusername/project-link)
 
 ---
-
-
 ## 🛠 Tools & Skills
 
 - **Data Analysis:** Excel, SQL (MySQL)
